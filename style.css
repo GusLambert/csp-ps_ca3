@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   color: #172b4d;
-  background-color: #0279bf;
+  background-color: #7d0093;
   display: flex;
   align-items: start;
 }
@@ -41,7 +41,7 @@ div {
 
 .card {
   background: white;
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid rgb(0, 0, 0);
 }
 
 .list {
@@ -49,7 +49,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: #dfe1e6;
+  background: #fcb205;
 }
 
 
@@ -57,7 +57,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: rgba(0,0,0,.12);
+  background: rgba(178, 12, 229, 0.12);
   color: hsla(0,0%,100%,.8);
 }
 
