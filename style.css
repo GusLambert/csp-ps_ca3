@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   color: #172b4d;
-  background-color: #7d0093;
+  background-color: #4b0d55;
   display: flex;
   align-items: start;
 }
@@ -17,6 +17,7 @@ div {
 
 .title {
   font-weight: 600;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .editable {
@@ -27,6 +28,7 @@ div {
   cursor: pointer !important;
   display: flex;
   justify-content: space-between;
+ 
 }
 
 .editing {
@@ -42,6 +44,7 @@ div {
 .card {
   background: white;
   border-bottom: 1px solid rgb(0, 0, 0);
+  font-family: 'Cairo', sans-serif;
 }
 
 .list {
@@ -49,7 +52,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: #fcb205;
+  background: #f5bffcb1;
 }
 
 
